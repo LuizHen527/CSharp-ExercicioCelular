@@ -57,7 +57,9 @@ switch (opcao)
     break;
 
     default:
+    Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine($"Digite uma opcao valida");
+    Console.ResetColor();
     loop = true;
     break;
 }

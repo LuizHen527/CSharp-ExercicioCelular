@@ -24,17 +24,44 @@ namespace ExercicioCelular.Celular
 
         public void ligação()
         {
-            Console.WriteLine($"Ligando para fulano...");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write($"Ligando para fulano");
+            Thread.Sleep(2000);
+            Console.Write(".");
+            Thread.Sleep(2000);
+            Console.Write(".");
+            Thread.Sleep(2000);
+            Console.Write(".");
+
+            Console.ResetColor();
+
+            Console.WriteLine($"");
+            Thread.Sleep(3000);
             Console.WriteLine($@"Ligação em andamento.
-            Precione qualquer tecla para terminar chamada.");
+Precione qualquer tecla para terminar chamada.");
             Console.ReadLine();
         }
 
         public void mensagem()
         {
-            Console.WriteLine($"Enviar mensagem");
-            Console.WriteLine($@"Precione qualquer tecla para terminar enviar a mensagem.");
+            
+            
+            Console.WriteLine($@"Precione qualquer tecla para enviar mensagem para fulano.");
             Console.ReadLine();
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write($"Enviando mensagem");
+            Thread.Sleep(2000);
+            Console.Write(".");
+            Thread.Sleep(2000);
+            Console.Write(".");
+            Thread.Sleep(2000);
+            Console.Write(".");
+
+            Console.ResetColor();
+
+            Console.WriteLine($"");
+            Thread.Sleep(3000);
         }
     }
 }
