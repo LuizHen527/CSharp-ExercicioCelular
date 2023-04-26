@@ -21,12 +21,44 @@ Celular phone1 = new Celular();
 //VARIAVEIS
 
 bool ligaDesliga;
+bool loop = true;
 
 //CODIGO
 
 Console.WriteLine($"Precione qualquer tecla para ligar...");
+Console.ReadLine();
+
+ligaDesliga = phone1.ligar();
+
+do
+{
+    Console.WriteLine($@"---------CELULAR----------
+Digite '1' para fazer ligação;
+       '2' para enviar mensagem;
+       '0' para desligar");
+
 string opcao = Console.ReadLine();
 
-phone1.ligar();
+switch (opcao)
+{
+    case "1":
+    phone1.ligação();
+    loop = true;
+    break;
 
-Console.WriteLine($"");
+    case "2":
+    phone1.mensagem();
+    loop = true;
+    break;
+
+    case "0":
+    phone1.desligar();
+    loop = false;
+    break;
+
+    default:
+    Console.WriteLine($"Digite uma opcao valida");
+    loop = true;
+    break;
+}
+} while (loop);

@@ -1,0 +1,15 @@
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\bin\Debug\net7.0\ExercicioCelular.exe
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\bin\Debug\net7.0\ExercicioCelular.deps.json
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\bin\Debug\net7.0\ExercicioCelular.runtimeconfig.json
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\bin\Debug\net7.0\ExercicioCelular.dll
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\bin\Debug\net7.0\ExercicioCelular.pdb
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ExercicioCelular.csproj.AssemblyReference.cache
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ExercicioCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ExercicioCelular.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ExercicioCelular.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ExercicioCelular.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ExercicioCelular.dll
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\refint\ExercicioCelular.dll
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ExercicioCelular.pdb
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ExercicioCelular.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExercicioCelular\obj\Debug\net7.0\ref\ExercicioCelular.dll
